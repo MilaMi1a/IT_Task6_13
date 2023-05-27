@@ -1,0 +1,50 @@
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\C#\task6\Lib\bin\Debug\netstandard2.0\Lib.deps.json
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\C#\task6\Lib\bin\Debug\netstandard2.0\Lib.dll
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\C#\task6\Lib\bin\Debug\netstandard2.0\Lib.pdb
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\C#\task6\Lib\obj\Debug\netstandard2.0\Lib.csproj.AssemblyReference.cache
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\C#\task6\Lib\obj\Debug\netstandard2.0\Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\C#\task6\Lib\obj\Debug\netstandard2.0\Lib.AssemblyInfoInputs.cache
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\C#\task6\Lib\obj\Debug\netstandard2.0\Lib.AssemblyInfo.cs
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\C#\task6\Lib\obj\Debug\netstandard2.0\Lib.csproj.CoreCompileInputs.cache
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\C#\task6\Lib\obj\Debug\netstandard2.0\Lib.dll
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\C#\task6\Lib\obj\Debug\netstandard2.0\Lib.pdb
+C:\Users\User\Downloads\task_6.Net\task_6.Net-main\Lib\bin\Debug\netstandard2.0\Lib.deps.json
+C:\Users\User\Downloads\task_6.Net\task_6.Net-main\Lib\bin\Debug\netstandard2.0\Lib.dll
+C:\Users\User\Downloads\task_6.Net\task_6.Net-main\Lib\bin\Debug\netstandard2.0\Lib.pdb
+C:\Users\User\Downloads\task_6.Net\task_6.Net-main\Lib\obj\Debug\netstandard2.0\Lib.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\task_6.Net\task_6.Net-main\Lib\obj\Debug\netstandard2.0\Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\task_6.Net\task_6.Net-main\Lib\obj\Debug\netstandard2.0\Lib.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\task_6.Net\task_6.Net-main\Lib\obj\Debug\netstandard2.0\Lib.AssemblyInfo.cs
+C:\Users\User\Downloads\task_6.Net\task_6.Net-main\Lib\obj\Debug\netstandard2.0\Lib.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\task_6.Net\task_6.Net-main\Lib\obj\Debug\netstandard2.0\Lib.dll
+C:\Users\User\Downloads\task_6.Net\task_6.Net-main\Lib\obj\Debug\netstandard2.0\Lib.pdb
+C:\Users\User\Desktop\вгу\VSProject\c#\task6\Lib\bin\Debug\netstandard2.0\Lib.deps.json
+C:\Users\User\Desktop\вгу\VSProject\c#\task6\Lib\bin\Debug\netstandard2.0\Lib.dll
+C:\Users\User\Desktop\вгу\VSProject\c#\task6\Lib\bin\Debug\netstandard2.0\Lib.pdb
+C:\Users\User\Desktop\вгу\VSProject\c#\task6\Lib\obj\Debug\netstandard2.0\Lib.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\вгу\VSProject\c#\task6\Lib\obj\Debug\netstandard2.0\Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\вгу\VSProject\c#\task6\Lib\obj\Debug\netstandard2.0\Lib.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\вгу\VSProject\c#\task6\Lib\obj\Debug\netstandard2.0\Lib.AssemblyInfo.cs
+C:\Users\User\Desktop\вгу\VSProject\c#\task6\Lib\obj\Debug\netstandard2.0\Lib.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\вгу\VSProject\c#\task6\Lib\obj\Debug\netstandard2.0\Lib.dll
+C:\Users\User\Desktop\вгу\VSProject\c#\task6\Lib\obj\Debug\netstandard2.0\Lib.pdb
+C:\Users\User\Downloads\task6\Lib\bin\Debug\netstandard2.0\Lib.deps.json
+C:\Users\User\Downloads\task6\Lib\bin\Debug\netstandard2.0\Lib.dll
+C:\Users\User\Downloads\task6\Lib\bin\Debug\netstandard2.0\Lib.pdb
+C:\Users\User\Downloads\task6\Lib\obj\Debug\netstandard2.0\Lib.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\task6\Lib\obj\Debug\netstandard2.0\Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\task6\Lib\obj\Debug\netstandard2.0\Lib.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\task6\Lib\obj\Debug\netstandard2.0\Lib.AssemblyInfo.cs
+C:\Users\User\Downloads\task6\Lib\obj\Debug\netstandard2.0\Lib.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\task6\Lib\obj\Debug\netstandard2.0\Lib.dll
+C:\Users\User\Downloads\task6\Lib\obj\Debug\netstandard2.0\Lib.pdb
+C:\Users\Admin\Documents\c#\Task_6\Lib\bin\Debug\netstandard2.0\Lib.deps.json
+C:\Users\Admin\Documents\c#\Task_6\Lib\bin\Debug\netstandard2.0\Lib.dll
+C:\Users\Admin\Documents\c#\Task_6\Lib\bin\Debug\netstandard2.0\Lib.pdb
+C:\Users\Admin\Documents\c#\Task_6\Lib\obj\Debug\netstandard2.0\Lib.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\c#\Task_6\Lib\obj\Debug\netstandard2.0\Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\c#\Task_6\Lib\obj\Debug\netstandard2.0\Lib.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\c#\Task_6\Lib\obj\Debug\netstandard2.0\Lib.AssemblyInfo.cs
+C:\Users\Admin\Documents\c#\Task_6\Lib\obj\Debug\netstandard2.0\Lib.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\c#\Task_6\Lib\obj\Debug\netstandard2.0\Lib.dll
+C:\Users\Admin\Documents\c#\Task_6\Lib\obj\Debug\netstandard2.0\Lib.pdb

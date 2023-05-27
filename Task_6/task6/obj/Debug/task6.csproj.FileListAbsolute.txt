@@ -1,0 +1,70 @@
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\C#\task6\task6\bin\Debug\task6.exe.config
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\C#\task6\task6\bin\Debug\task6.exe
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\C#\task6\task6\bin\Debug\task6.pdb
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\C#\task6\task6\obj\Debug\task6.csproj.AssemblyReference.cache
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\C#\task6\task6\obj\Debug\task6.csproj.SuggestedBindingRedirects.cache
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\C#\task6\task6\obj\Debug\task6.Properties.Resources.resources
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\C#\task6\task6\obj\Debug\task6.csproj.GenerateResource.cache
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\C#\task6\task6\obj\Debug\task6.csproj.CoreCompileInputs.cache
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\C#\task6\task6\obj\Debug\task6.exe
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\C#\task6\task6\obj\Debug\task6.pdb
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\C#\task6\task6\bin\Debug\Lib.dll
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\C#\task6\task6\bin\Debug\Lib.pdb
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\C#\task6\task6\obj\Debug\task6.csproj.CopyComplete
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\C#\task6\task6\obj\Debug\task6.Form1.resources
+C:\Users\User\Downloads\task_6.Net\task_6.Net-main\task6\bin\Debug\task6.exe.config
+C:\Users\User\Downloads\task_6.Net\task_6.Net-main\task6\bin\Debug\task6.exe
+C:\Users\User\Downloads\task_6.Net\task_6.Net-main\task6\bin\Debug\task6.pdb
+C:\Users\User\Downloads\task_6.Net\task_6.Net-main\task6\bin\Debug\Lib.dll
+C:\Users\User\Downloads\task_6.Net\task_6.Net-main\task6\bin\Debug\Lib.pdb
+C:\Users\User\Downloads\task_6.Net\task_6.Net-main\task6\obj\Debug\task6.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\task_6.Net\task_6.Net-main\task6\obj\Debug\task6.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\task_6.Net\task_6.Net-main\task6\obj\Debug\task6.Form1.resources
+C:\Users\User\Downloads\task_6.Net\task_6.Net-main\task6\obj\Debug\task6.Properties.Resources.resources
+C:\Users\User\Downloads\task_6.Net\task_6.Net-main\task6\obj\Debug\task6.csproj.GenerateResource.cache
+C:\Users\User\Downloads\task_6.Net\task_6.Net-main\task6\obj\Debug\task6.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\task_6.Net\task_6.Net-main\task6\obj\Debug\task6.csproj.CopyComplete
+C:\Users\User\Downloads\task_6.Net\task_6.Net-main\task6\obj\Debug\task6.exe
+C:\Users\User\Downloads\task_6.Net\task_6.Net-main\task6\obj\Debug\task6.pdb
+C:\Users\User\Desktop\вгу\VSProject\c#\task6\task6\bin\Debug\task6.exe.config
+C:\Users\User\Desktop\вгу\VSProject\c#\task6\task6\bin\Debug\task6.exe
+C:\Users\User\Desktop\вгу\VSProject\c#\task6\task6\bin\Debug\task6.pdb
+C:\Users\User\Desktop\вгу\VSProject\c#\task6\task6\bin\Debug\Lib.dll
+C:\Users\User\Desktop\вгу\VSProject\c#\task6\task6\bin\Debug\Lib.pdb
+C:\Users\User\Desktop\вгу\VSProject\c#\task6\task6\obj\Debug\task6.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\вгу\VSProject\c#\task6\task6\obj\Debug\task6.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\вгу\VSProject\c#\task6\task6\obj\Debug\task6.Form1.resources
+C:\Users\User\Desktop\вгу\VSProject\c#\task6\task6\obj\Debug\task6.Properties.Resources.resources
+C:\Users\User\Desktop\вгу\VSProject\c#\task6\task6\obj\Debug\task6.csproj.GenerateResource.cache
+C:\Users\User\Desktop\вгу\VSProject\c#\task6\task6\obj\Debug\task6.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\вгу\VSProject\c#\task6\task6\obj\Debug\task6.csproj.CopyComplete
+C:\Users\User\Desktop\вгу\VSProject\c#\task6\task6\obj\Debug\task6.exe
+C:\Users\User\Desktop\вгу\VSProject\c#\task6\task6\obj\Debug\task6.pdb
+C:\Users\User\Downloads\task6\task6\bin\Debug\task6.exe.config
+C:\Users\User\Downloads\task6\task6\bin\Debug\task6.exe
+C:\Users\User\Downloads\task6\task6\bin\Debug\task6.pdb
+C:\Users\User\Downloads\task6\task6\bin\Debug\Lib.dll
+C:\Users\User\Downloads\task6\task6\bin\Debug\Lib.pdb
+C:\Users\User\Downloads\task6\task6\obj\Debug\task6.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\task6\task6\obj\Debug\task6.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\task6\task6\obj\Debug\task6.Form1.resources
+C:\Users\User\Downloads\task6\task6\obj\Debug\task6.Properties.Resources.resources
+C:\Users\User\Downloads\task6\task6\obj\Debug\task6.csproj.GenerateResource.cache
+C:\Users\User\Downloads\task6\task6\obj\Debug\task6.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\task6\task6\obj\Debug\task6.csproj.CopyComplete
+C:\Users\User\Downloads\task6\task6\obj\Debug\task6.exe
+C:\Users\User\Downloads\task6\task6\obj\Debug\task6.pdb
+C:\Users\Admin\Documents\c#\Task_6\task6\bin\Debug\task6.exe.config
+C:\Users\Admin\Documents\c#\Task_6\task6\bin\Debug\task6.exe
+C:\Users\Admin\Documents\c#\Task_6\task6\bin\Debug\task6.pdb
+C:\Users\Admin\Documents\c#\Task_6\task6\bin\Debug\Lib.dll
+C:\Users\Admin\Documents\c#\Task_6\task6\bin\Debug\Lib.pdb
+C:\Users\Admin\Documents\c#\Task_6\task6\obj\Debug\task6.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\c#\Task_6\task6\obj\Debug\task6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\c#\Task_6\task6\obj\Debug\task6.Form1.resources
+C:\Users\Admin\Documents\c#\Task_6\task6\obj\Debug\task6.Properties.Resources.resources
+C:\Users\Admin\Documents\c#\Task_6\task6\obj\Debug\task6.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\c#\Task_6\task6\obj\Debug\task6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\c#\Task_6\task6\obj\Debug\task6.csproj.CopyComplete
+C:\Users\Admin\Documents\c#\Task_6\task6\obj\Debug\task6.exe
+C:\Users\Admin\Documents\c#\Task_6\task6\obj\Debug\task6.pdb
